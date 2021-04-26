@@ -1,0 +1,6 @@
+python-telegram-bot==13.4.1
+pyTelegramBotAPI==3.7.7
+PySocks==1.7.1
+geocoder==1.38.1
+requests==2.25.1
+openexchangerate==1.5.5
